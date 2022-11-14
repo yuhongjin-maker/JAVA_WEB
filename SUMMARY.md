@@ -11,3 +11,17 @@
 * [DDL](mysql/ddl.md)
 * [DML](mysql/dml.md)
 * [DQL](mysql/dql.md)
+
+## 数据库
+
+* [约束](shu-ju-ku/yue-shu.md)
+* [数据库设计](shu-ju-ku/shu-ju-ku-she-ji.md)
+* [多表查询](shu-ju-ku/duo-biao-cha-xun.md)
+* [事务](shu-ju-ku/shi-wu.md)
+
+## JDBC
+
+* [JDBC简介](jdbc/jdbc-jian-jie.md)
+* [JDBC快速入门](jdbc/jdbc-kuai-su-ru-men.md)
+* [JDBC API详解](jdbc/jdbc-api-xiang-jie.md)
+* [数据库连接池](jdbc/shu-ju-ku-lian-jie-chi.md)
