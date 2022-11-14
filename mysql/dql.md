@@ -2,7 +2,7 @@
 
 ## 查询语法
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ## 基础查询(SELECT)
 
@@ -20,7 +20,7 @@
 
 ## 聚合函数
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## 分组查询（GROUP BY）
 
