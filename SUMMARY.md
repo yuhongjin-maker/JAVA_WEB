@@ -10,3 +10,4 @@
 * [图形化客户端工具](mysql/tu-xing-hua-ke-hu-duan-gong-ju.md)
 * [DDL](mysql/ddl.md)
 * [DML](mysql/dml.md)
+* [DQL](mysql/dql.md)
