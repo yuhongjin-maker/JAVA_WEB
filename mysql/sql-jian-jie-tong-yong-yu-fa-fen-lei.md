@@ -20,4 +20,4 @@
 * DQL（Data Query Language）数据查询语言，用来查询数据库中表的记录
 * DCL（Data Control Language）数据控制语言，用来定义数据库的访问权限和安全级别，及创建用户
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>

@@ -2,7 +2,7 @@
 
 ## 数据库设计概述
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (4).png" alt=""><figcaption></figcaption></figure>
 
 ## 表关系
 
@@ -14,7 +14,7 @@
 
 * 实现方式：在多的一方建立外键，指向一的一方的主键
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 多对多
 
