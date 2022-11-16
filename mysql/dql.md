@@ -10,7 +10,7 @@
 
 ## 条件查询(WHERE)
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (2).png" alt=""><figcaption></figcaption></figure>
 
 #### null值得比较不能用 =  != 需要用 is, is not
 

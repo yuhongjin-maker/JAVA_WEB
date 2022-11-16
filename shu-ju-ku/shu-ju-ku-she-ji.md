@@ -20,7 +20,7 @@
 
 * 实现方式：建立第三张中间表，中间表至少包含两个外键，分别关联两方主键
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 ### 一对一
 
