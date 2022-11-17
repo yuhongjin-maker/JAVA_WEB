@@ -2,7 +2,7 @@
 
 ## 数据库设计概述
 
-<figure><img src="../.gitbook/assets/image (4) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 表关系
 

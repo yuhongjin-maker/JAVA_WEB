@@ -2,7 +2,7 @@
 
 ## 查询语法
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (3).png" alt=""><figcaption></figcaption></figure>
 
 ## 基础查询(SELECT)
 
