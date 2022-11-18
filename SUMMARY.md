@@ -25,3 +25,4 @@
 * [JDBC快速入门](jdbc/jdbc-kuai-su-ru-men.md)
 * [JDBC API详解](jdbc/jdbc-api-xiang-jie.md)
 * [数据库连接池](jdbc/shu-ju-ku-lian-jie-chi.md)
+* [JDBC练习](jdbc/jdbc-lian-xi.md)
