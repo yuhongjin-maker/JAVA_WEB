@@ -31,3 +31,4 @@
 
 * [HTML介绍](html/html-jie-shao.md)
 * [基础标签](html/ji-chu-biao-qian.md)
+* [图片、音频、视频标签](html/tu-pian-yin-pin-shi-pin-biao-qian.md)
