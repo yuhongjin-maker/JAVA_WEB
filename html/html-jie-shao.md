@@ -6,7 +6,7 @@
 
 ## 快速入门
 
-<figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 * HTML文件以.html或者.htm为扩展名
 * HTML结构标签

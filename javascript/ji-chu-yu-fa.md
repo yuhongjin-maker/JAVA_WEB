@@ -16,3 +16,15 @@ if (count == 3){
     alert(count);
 }
 ```
+
+## 输出语句
+
+* 使用window.alert()写入警告框
+* 使用document.write()写入HTML输出
+* 使用console.log()写入浏览器控制台
+
+```
+window.alert("hello JS~"); //弹出警告框
+document.write("hello JS~"); //写入HTML
+console.log("hello JS~");//写入控制台
+```

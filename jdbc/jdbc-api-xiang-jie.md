@@ -22,13 +22,13 @@
 
 ## Statement
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (3).png" alt=""><figcaption></figcaption></figure>
 
 ## ResultSet
 
 <figure><img src="../.gitbook/assets/image (5) (4).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## PreparedStatement
 
