@@ -28,3 +28,11 @@ window.alert("hello JS~"); //弹出警告框
 document.write("hello JS~"); //写入HTML
 console.log("hello JS~");//写入控制台
 ```
+
+## 变量
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+## 数据类型
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
