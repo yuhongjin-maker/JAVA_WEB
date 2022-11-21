@@ -36,3 +36,32 @@ console.log("hello JS~");//写入控制台
 ## 数据类型
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+## 运算符
+
+<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+
+### ==：
+
+1. 判断类型是否一样，如果不一样，则进行类型转换
+2. 再去比较其值
+
+### ===：
+
+1. 判断类型是否一样，如果不一样，直接返回false
+2. 再去比较其值
+
+## 类型转换
+
+### 其他类型转为number
+
+* string：按照字符串的字面值，转为数字。如果字面值不是数字，则转为NaN,一般使用parseInt
+* boolean: true 转为1，false转为0
+
+### 其他类型转为boolean
+
+* number:0和NaN转为false,其他数字转为true
+* string:空字符串转为false，其他字符串转为true
+* null:false
+* undefined:false
+
