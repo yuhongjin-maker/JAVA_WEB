@@ -45,8 +45,5 @@
 
 * [JavaScript简介&引入方式](javascript/javascript-jian-jie-yin-ru-fang-shi.md)
 * [基础语法](javascript/ji-chu-yu-fa.md)
-* [书写语法&输出语句](javascript/shu-xie-yu-fa-shu-chu-yu-ju.md)
-* [变量&数据类型](javascript/bian-liang-shu-ju-lei-xing.md)
-* [流程控制语句&函数](javascript/liu-cheng-kong-zhi-yu-ju-han-shu.md)
 * [Array对象](javascript/array-dui-xiang.md)
 * [String对象\&Window对象&自定义对象](javascript/string-dui-xiang-window-dui-xiang-zi-ding-yi-dui-xiang.md)

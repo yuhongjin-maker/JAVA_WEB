@@ -2,7 +2,7 @@
 
 ## 什么是HTML
 
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 ## 快速入门
 
