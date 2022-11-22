@@ -2,6 +2,8 @@
 
 ## 什么是JavaScript
 
+#### JavaScript参考手册:   [https://www.w3school.com.cn/jsref/index.asp](https://www.w3school.com.cn/jsref/index.asp)
+
 <figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## JavaScript引入方式
