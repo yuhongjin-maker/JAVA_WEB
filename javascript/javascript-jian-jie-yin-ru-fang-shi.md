@@ -2,7 +2,7 @@
 
 ## 什么是JavaScript
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## JavaScript引入方式
 
