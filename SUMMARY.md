@@ -47,3 +47,14 @@
 * [基础语法](javascript/ji-chu-yu-fa.md)
 * [Array对象](javascript/array-dui-xiang.md)
 * [String对象\&Window对象&自定义对象](javascript/string-dui-xiang-window-dui-xiang-zi-ding-yi-dui-xiang.md)
+* [History对象\&Location对象](javascript/history-dui-xiang-location-dui-xiang.md)
+* [DOM概述\&Element对象获取与使用](javascript/dom-gai-shu-element-dui-xiang-huo-qu-yu-shi-yong.md)
+* [事件监听](javascript/shi-jian-jian-ting.md)
+* [表单验证](javascript/biao-dan-yan-zheng.md)
+* [正则表达式](javascript/zheng-ze-biao-da-shi.md)
+
+## Web核心
+
+* [HTTP简介](web-he-xin/http-jian-jie.md)
+* [HTTP-请求数据格式](web-he-xin/http-qing-qiu-shu-ju-ge-shi.md)
+* [HTTP-响应数据格式](web-he-xin/http-xiang-ying-shu-ju-ge-shi.md)

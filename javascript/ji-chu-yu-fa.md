@@ -35,7 +35,7 @@ console.log("hello JS~");//写入控制台
 
 ## 数据类型
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (3).png" alt=""><figcaption></figcaption></figure>
 
 ## 运算符
 
