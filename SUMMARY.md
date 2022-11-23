@@ -55,6 +55,7 @@
 
 ## Web核心
 
+* [Web核心](web-he-xin/web-he-xin.md)
 * [HTTP简介](web-he-xin/http-jian-jie.md)
 * [HTTP-请求数据格式](web-he-xin/http-qing-qiu-shu-ju-ge-shi.md)
 * [HTTP-响应数据格式](web-he-xin/http-xiang-ying-shu-ju-ge-shi.md)

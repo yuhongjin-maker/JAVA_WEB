@@ -31,7 +31,7 @@ console.log("hello JS~");//写入控制台
 
 ## 变量
 
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 数据类型
 

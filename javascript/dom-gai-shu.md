@@ -1,4 +1,4 @@
-# DOM概述\&Element对象获取与使用
+# DOM概述
 
 ## DOM
 
@@ -12,7 +12,7 @@
 * Text
 * Comment
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### JavaScipt通过DOM，就能够对HTML进行操作
 
