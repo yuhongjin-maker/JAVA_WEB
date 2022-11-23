@@ -51,7 +51,6 @@
 * [DOM概述](javascript/dom-gai-shu.md)
 * [Element对象获取与使用](javascript/element-dui-xiang-huo-qu-yu-shi-yong.md)
 * [事件监听](javascript/shi-jian-jian-ting.md)
-* [表单验证](javascript/biao-dan-yan-zheng.md)
 * [正则表达式](javascript/zheng-ze-biao-da-shi.md)
 
 ## Web核心
