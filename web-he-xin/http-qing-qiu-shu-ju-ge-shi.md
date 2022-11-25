@@ -6,7 +6,7 @@
 2. 请求头：第二行开始，格式为key：value形式
 3. 请求体：POST请求的最后一部分，存放请求参数
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (5).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (3) (4).png" alt=""><figcaption></figcaption></figure>
 
