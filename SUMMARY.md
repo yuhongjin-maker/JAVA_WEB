@@ -66,3 +66,4 @@
 ## Mybatis
 
 * [MyBatis简介](mybatis/mybatis-jian-jie.md)
+* [MyBatis快速入门](mybatis/mybatis-kuai-su-ru-men.md)
