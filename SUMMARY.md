@@ -69,3 +69,6 @@
 * [MyBatis快速入门](mybatis/mybatis-kuai-su-ru-men.md)
 * [Mapper代理开发](mybatis/mapper-dai-li-kai-fa.md)
 * [Mybatis核心配置文件](mybatis/mybatis-he-xin-pei-zhi-wen-jian.md)
+* [配置文件完成增删改查](mybatis/pei-zhi-wen-jian-wan-cheng-zeng-shan-gai-cha.md)
+* [注解完成增删改查](mybatis/zhu-jie-wan-cheng-zeng-shan-gai-cha.md)
+* [动态SQL](mybatis/dong-tai-sql.md)
