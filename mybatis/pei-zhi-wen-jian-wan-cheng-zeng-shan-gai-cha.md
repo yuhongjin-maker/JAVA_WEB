@@ -53,3 +53,22 @@ property:实体类的属性名
     from tb_brand;
     &#x3C;/select>
 </code></pre>
+
+## 查询-查看详情
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+### 参数占位符
+
+1. \#{}:会将其替换成?.为了防止SQL注入
+2. ${}:拼sql,会存在SQL注入问题
+
+### 参数类型
+
+parameterType:可以省略
+
+### 特殊字符处理
+
+1. 转义字符
+2. CDATA区
+

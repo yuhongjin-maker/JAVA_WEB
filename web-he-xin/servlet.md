@@ -19,7 +19,7 @@
 
 ## Servlet生命周期
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (5).png" alt=""><figcaption></figcaption></figure>
 
 ## Servlet方法
 
