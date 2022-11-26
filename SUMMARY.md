@@ -68,3 +68,4 @@
 * [MyBatis简介](mybatis/mybatis-jian-jie.md)
 * [MyBatis快速入门](mybatis/mybatis-kuai-su-ru-men.md)
 * [Mapper代理开发](mybatis/mapper-dai-li-kai-fa.md)
+* [Mybatis核心配置文件](mybatis/mybatis-he-xin-pei-zhi-wen-jian.md)
