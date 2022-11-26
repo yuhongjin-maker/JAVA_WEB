@@ -22,7 +22,7 @@
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-## 查询所有数据
+## 查询-所有数据
 
 <figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
@@ -71,4 +71,16 @@ parameterType:可以省略
 
 1. 转义字符
 2. CDATA区
+
+## 查询-条件查询
+
+### 多条件查询
+
+<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+
+### SQL语句设置多个参数有三种方式
+
+1. 散装参数：需要使用@Param("SQL中的参数占位符名称")
+2. 实体类封装参数：只需要保证SQL中的参数名和实体类属性名对应上，即可设置成功
+3. map集合：只需要保证SQL中的参数名 和 map集合的键的名称对应上，即可设置成功
 
