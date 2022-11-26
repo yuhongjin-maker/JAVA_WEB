@@ -98,5 +98,25 @@ parameterType:可以省略
 2. \<where>标签替换where关键字
 
 ```
-// Some code
+// Example Code
+<select id="selectByCondition" resultMap="brandResultMap">
+            select * from tb_brand
+    <where>
+        <if test="status != null">
+            and status = #{status}
+        </if>
+        <if test="companyName != null and companyName != '' ">
+            and company_name like #{companyName}
+        </if>
+        <if test="brandName != null and brandName != ''">
+            and brand_name like #{brandName}
+        </if>
+    </where>
+</select>
 ```
+
+### 单条件查询-动态
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+#### 可以用\<where>标签把它们包裹起来进行优化

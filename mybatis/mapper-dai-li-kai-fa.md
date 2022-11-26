@@ -5,11 +5,11 @@
 * 解决原生方式的硬编码
 * 简化后期执行SQL
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 步骤
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (8).png" alt=""><figcaption></figcaption></figure>
 
 ```
 // 包扫描只需要在mybatis_config.xml <mapper>标签下修改
