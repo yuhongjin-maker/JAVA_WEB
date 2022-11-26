@@ -20,7 +20,7 @@
 * 删除一个
 * 批量删除
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## 查询-所有数据
 
@@ -74,7 +74,7 @@ parameterType:可以省略
 
 ## 查询-条件查询
 
-### 多条件查询
+### 多条件查询-静态
 
 <figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
@@ -84,3 +84,19 @@ parameterType:可以省略
 2. 实体类封装参数：只需要保证SQL中的参数名和实体类属性名对应上，即可设置成功
 3. map集合：只需要保证SQL中的参数名 和 map集合的键的名称对应上，即可设置成功
 
+### 多条件查询-动态
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+#### if：用于判断参数是否有值，使用test属性进行条件判断
+
+存在的问题：第一个条件不需要逻辑运算符
+
+解决方案
+
+1. 使用恒等式让所有条件格式都一样
+2. \<where>标签替换where关键字
+
+```
+// Some code
+```
