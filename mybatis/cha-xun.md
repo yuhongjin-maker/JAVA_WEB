@@ -1,6 +1,6 @@
 # 查询
 
-<figure><img src="../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (2) (4).png" alt=""><figcaption></figcaption></figure>
 
 ## 查询-所有数据
 
