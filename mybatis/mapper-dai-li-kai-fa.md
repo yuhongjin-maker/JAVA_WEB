@@ -5,7 +5,7 @@
 * 解决原生方式的硬编码
 * 简化后期执行SQL
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (4).png" alt=""><figcaption></figcaption></figure>
 
 ## 步骤
 
