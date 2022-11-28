@@ -47,8 +47,14 @@ String getQueryString()
 BufferReader getReader()
 ```
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 请求参数中文乱码处理
 
 请求参数如果存在中文数据，则会乱码
+
+#### 解决方法
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+#### Tomcat 8.0后已将GET请求乱码问题解决，设置默认的解码方式为UTF-8
