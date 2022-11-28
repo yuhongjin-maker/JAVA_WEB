@@ -57,4 +57,17 @@ BufferReader getReader()
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
+<pre><code>// URL编码
+String encode = URLEncoder.encode(username,"utf-8");
+
+//URL解码,因为Tomcat不能直接设置为utf-8没有给外部接口
+String decode = URLDecoder.decode(encode,"ISO-8859-1");
+//以上URL编码实现
+
+//转换成字节数据
+<strong>byte[] = decode.getBytes("ISO-8859-1");
+</strong>
+//将字节数组转为字符串
+String s = new String(bytes,"utf-8");</code></pre>
+
 #### Tomcat 8.0后已将GET请求乱码问题解决，设置默认的解码方式为UTF-8
