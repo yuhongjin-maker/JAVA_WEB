@@ -1,6 +1,6 @@
 # Mybatis核心配置文件
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (4).png" alt=""><figcaption></figcaption></figure>
 
 ## 环境配置(environments)
 
