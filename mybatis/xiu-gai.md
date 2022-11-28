@@ -6,4 +6,4 @@
 
 ## 修改-修改动态字段
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (7).png" alt=""><figcaption></figcaption></figure>
