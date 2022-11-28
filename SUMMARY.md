@@ -83,3 +83,7 @@
 * [Request继承体系](request-and-response/request-ji-cheng-ti-xi.md)
 * [Requet获取请求数据](request-and-response/requet-huo-qu-qing-qiu-shu-ju.md)
 * [Request请求转发](request-and-response/request-qing-qiu-zhuan-fa.md)
+* [Response设置响应数据功能介绍](request-and-response/response-she-zhi-xiang-ying-shu-ju-gong-neng-jie-shao.md)
+* [Response完成重定向](request-and-response/response-wan-cheng-zhong-ding-xiang.md)
+* [Response响应字符数据](request-and-response/response-xiang-ying-zi-fu-shu-ju.md)
+* [Response响应字节数据](request-and-response/response-xiang-ying-zi-jie-shu-ju.md)

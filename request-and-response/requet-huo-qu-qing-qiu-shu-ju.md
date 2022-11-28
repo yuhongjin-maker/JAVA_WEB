@@ -55,7 +55,7 @@ BufferReader getReader()
 
 #### 解决方法
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
 <pre><code>// URL编码
 String encode = URLEncoder.encode(username,"utf-8");
