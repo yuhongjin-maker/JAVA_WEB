@@ -94,7 +94,7 @@
 * [JSP简介](jsp/jsp-jian-jie.md)
 * [JSP脚本](jsp/jsp-jiao-ben.md)
 * [JSP缺点](jsp/jsp-que-dian.md)
-* [JSP表达式](jsp/jsp-biao-da-shi.md)
+* [EL表达式](jsp/el-biao-da-shi.md)
 * [JSTL标签](jsp/jstl-biao-qian.md)
 * [MVC模式和三层架构](jsp/mvc-mo-shi-he-san-ceng-jia-gou.md)
 
