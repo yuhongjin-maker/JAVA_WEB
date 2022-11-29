@@ -4,7 +4,7 @@
 
 HpyerText Transfer Protocol,超文本传输协议，规定了浏览器和服务器之间数据传输的规则
 
-<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (20) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## HTTP协议特点
 

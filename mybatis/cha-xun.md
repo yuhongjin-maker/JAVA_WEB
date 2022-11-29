@@ -56,7 +56,7 @@ parameterType:可以省略
 
 ### 多条件查询-静态
 
-<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (22) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### SQL语句设置多个参数有三种方式
 
