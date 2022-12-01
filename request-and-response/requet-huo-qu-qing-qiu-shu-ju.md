@@ -47,7 +47,7 @@ String getQueryString()
 BufferReader getReader()
 ```
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (4).png" alt=""><figcaption></figcaption></figure>
 
 ## 请求参数中文乱码处理
 
@@ -68,6 +68,7 @@ String decode = URLDecoder.decode(encode,"ISO-8859-1");
 <strong>byte[] = decode.getBytes("ISO-8859-1");
 </strong>
 //将字节数组转为字符串
-String s = new String(bytes,"utf-8");</code></pre>
+String s = new String(bytes,"utf-8");
+</code></pre>
 
 #### Tomcat 8.0后已将GET请求乱码问题解决，设置默认的解码方式为UTF-8
