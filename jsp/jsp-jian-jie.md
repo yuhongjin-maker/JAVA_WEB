@@ -7,7 +7,7 @@
 * 本质上就是一个Servlet
 * JSP在被访问时，由JSP容器（Tomcat）将其转换为Java文件(Servlet),在由JSP容器(Tomcat)将其编译，最终对外提供服务的其实就是这个字节码文件
 
-<figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (29) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 

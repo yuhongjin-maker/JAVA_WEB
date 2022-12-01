@@ -4,7 +4,7 @@
 
 ## 查询-所有数据
 
-<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (25) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 数据库表的字段名称和实体类的属性名称不一样则不能自动封装数据
 
@@ -32,6 +32,7 @@ property:实体类的属性名
         *
     from tb_brand;
     &#x3C;/select>
+
 </code></pre>
 
 ## 查询-查看详情

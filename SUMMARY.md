@@ -103,6 +103,7 @@
 * [会话跟踪技术](hui-hua-ji-shu-gai-shu/hui-hua-gen-zong-ji-shu.md)
 * [Cookie](hui-hua-ji-shu-gai-shu/cookie.md)
 * [Session](hui-hua-ji-shu-gai-shu/session.md)
+* [区别](hui-hua-ji-shu-gai-shu/qu-bie.md)
 
 ## Filter
 
