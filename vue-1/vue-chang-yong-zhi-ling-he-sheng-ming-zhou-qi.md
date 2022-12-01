@@ -20,7 +20,7 @@
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (11).png" alt=""><figcaption></figcaption></figure>
 
 #### mounted:挂载完成，Vue初始化成功，HTML页面渲染成功
 

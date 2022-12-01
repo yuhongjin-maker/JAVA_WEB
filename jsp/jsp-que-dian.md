@@ -9,7 +9,7 @@
 5. 调式困难
 6. 不利于团队协作
 
-<figure><img src="../.gitbook/assets/image (1) (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 解决方案
 
