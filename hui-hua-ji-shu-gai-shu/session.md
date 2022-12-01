@@ -12,7 +12,7 @@ Java EE提供HttpSession接口，来实现一次会话的多次请求间数据�
 
 * Session是基于Cookie实现的
 
-<figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ## Session使用细节
 
@@ -22,7 +22,7 @@ Java EE提供HttpSession接口，来实现一次会话的多次请求间数据�
 * 钝化：在服务器正常关闭后，Tomcat会自动将Session数据写入硬盘的文件中
 * 活化：再次启动服务器后，从文件中加载数据到Session中
 
-<figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
 ### Session销毁
 

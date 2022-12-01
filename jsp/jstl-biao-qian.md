@@ -16,5 +16,5 @@
 * var:遍历产生的临时变量
 * varStatus：遍历状态对象
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
