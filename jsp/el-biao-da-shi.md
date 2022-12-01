@@ -16,6 +16,6 @@ ${brands}
 3. session:当前会话有效
 4. application:当前应用有效
 
-![](<../.gitbook/assets/image (7).png>)
+![](<../.gitbook/assets/image (7) (5).png>)
 
 #### el表达式获取数据，会依次从这4个域中寻找，直到找到为止

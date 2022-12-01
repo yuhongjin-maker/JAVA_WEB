@@ -11,4 +11,4 @@
 * 一个Web应用，可以配置多个过滤器，这多个过滤器称为过滤器链
 * 注解配置的Filter,优先级按照过滤器类名字（字符串）的自然排序
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (9).png" alt=""><figcaption></figcaption></figure>
