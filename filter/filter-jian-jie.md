@@ -4,7 +4,7 @@
 * 过滤器可以把对资源的请求拦截下来，从而实现一些特殊的功能
 * 过滤器一般完成一些通用的操作，比如：权限控制、统一编码处理、敏感字符处理等等..
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Filter快速入门
 

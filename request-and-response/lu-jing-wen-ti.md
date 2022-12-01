@@ -1,6 +1,6 @@
 # 路径问题
 
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 ```
 // 动态获取虚拟目录的方式

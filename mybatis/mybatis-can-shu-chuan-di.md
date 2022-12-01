@@ -1,6 +1,6 @@
 # MyBatis参数传递
 
-<figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (27) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (1) (9).png" alt=""><figcaption></figcaption></figure>
 

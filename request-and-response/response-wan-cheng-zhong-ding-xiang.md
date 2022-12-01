@@ -4,7 +4,7 @@
 
 * 重定向(Redirect):一种资源跳转方式
 
-<figure><img src="../.gitbook/assets/image (1) (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 实现方式
 

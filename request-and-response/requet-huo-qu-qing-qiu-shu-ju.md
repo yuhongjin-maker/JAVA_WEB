@@ -47,7 +47,7 @@ String getQueryString()
 BufferReader getReader()
 ```
 
-<figure><img src="../.gitbook/assets/image (1) (1) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 请求参数中文乱码处理
 

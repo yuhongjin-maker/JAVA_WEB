@@ -1,6 +1,6 @@
 # AJAX概述
 
-概念：AJAX(Asynchronous JavaScript And XML):异步的JavaScript和XML
+#### 概念：AJAX(Asynchronous JavaScript And XML):异步的JavaScript和XML
 
 ## AJAX作用
 
@@ -12,4 +12,4 @@
 
 ## 同步和异步
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>

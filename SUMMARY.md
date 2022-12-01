@@ -132,3 +132,5 @@
 
 * [AJAX概述](ajax/ajax-gai-shu.md)
 * [AJAX快速入门](ajax/ajax-kuai-su-ru-men.md)
+* [Axios异步框架](ajax/axios-yi-bu-kuang-jia.md)
+* [JSON概述和基础语法](ajax/json-gai-shu-he-ji-chu-yu-fa.md)
