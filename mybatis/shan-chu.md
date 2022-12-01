@@ -6,7 +6,7 @@
 
 ## 批量删除
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (3).png" alt=""><figcaption></figcaption></figure>
 
 #### Mybatis 会将数组参数，封装成一个Map集合
 

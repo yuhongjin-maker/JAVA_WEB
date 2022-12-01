@@ -4,7 +4,7 @@
 
 * 请求转发(forward):一种在服务器内部的资源跳转方式
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 实现方式
 

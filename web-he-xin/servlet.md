@@ -27,7 +27,7 @@
 
 ## Servlet体系结构
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### HttpServlet使用步骤
 
@@ -44,7 +44,7 @@
 
 ### urlPattern配置规则
 
-<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 #### 当一个路径同时满足精确匹配和目录匹配时，精确匹配的优先级要高于目录匹配
 
