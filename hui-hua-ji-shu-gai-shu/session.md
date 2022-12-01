@@ -12,7 +12,7 @@ Java EE提供HttpSession接口，来实现一次会话的多次请求间数据�
 
 * Session是基于Cookie实现的
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 ## Session使用细节
 
